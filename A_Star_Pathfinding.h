@@ -1,9 +1,12 @@
 #pragma once
 
 #include <QtWidgets/QMainWindow>
-#include <QTextEdit>
-#include <QMessageBox>
-#include <QScrollBar>
+#include <QtWidgets/QTextEdit>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QScrollBar>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QTableWidgetItem>
+#include <QtWidgets/QHeaderView>
 
 #include "ui_A_Star_Pathfinding.h"
 
